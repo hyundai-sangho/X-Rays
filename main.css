@@ -26,7 +26,7 @@ body {
 }
 
 .img1 {
-  background-image: url("/images/css.png");
+  background-image: url("images/css.png");
   background-size: cover;
 }
 

@@ -8,11 +8,11 @@ list.addEventListener("change", (e) => {
 
   switch (selectOptionValue) {
     case "Html":
-      img.setAttribute("src", "/images/HTML.png");
+      img.setAttribute("src", "images/HTML.png");
       break;
 
     case "Javascript":
-      img.setAttribute("src", "/images/JAVASCRIPT.png");
+      img.setAttribute("src", "images/JAVASCRIPT.png");
       break;
 
     default:
